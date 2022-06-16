@@ -1,0 +1,1 @@
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\practica12_WU_speachRecognition\WUspeachRecognition\WUspeachRecognition.csproj;x86
