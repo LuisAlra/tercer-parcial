@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XFessentials02.PagAcelerometro">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="SteelBlue">
+            <Label Text="Acelerometro" HorizontalTextAlignment="Center" FontSize="23" TextColor="White"/>
+            <Button Text="Activar" Clicked="Btactivar" Margin="110,10,110,10"/>
+            <Button Text="Desactivar" Clicked="Btdesactivar" Margin="110,10,110,10"/>
+            <Label x:Name="x" TextColor="White"/>
+            <Label x:Name="y" TextColor="White"/>
+            <Label x:Name="z" TextColor="White"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

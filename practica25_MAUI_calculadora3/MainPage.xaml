@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI_calculadora1.MainPage">
+			 
+    <ScrollView HorizontalScrollBarVisibility="Always" Orientation="Vertical">
+        <VerticalStackLayout>
+            <Label Text="Calculadora con MAUI" FontSize="25" Margin="0,20" HorizontalTextAlignment="Center" />
+            <StackLayout>
+                <Button Text="Firma" FontSize="Title" Margin="120,0" Clicked="btn_firma"></Button>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Padding="0,0" >
+                <Label x:Name="trigo" Text="" FontSize="35" Margin="-15,10,0,0" ></Label>
+                <Entry x:Name="datox" Text="x" FontSize="35" Margin="15,0,0,0" BackgroundColor="AliceBlue" ></Entry>
+                <Label x:Name="oper" Text="" FontSize="35" Margin="15,10,0,0" ></Label>
+                <Entry x:Name="datoy" Text="y" FontSize="35" Margin="15,0,0,0" BackgroundColor="AliceBlue" ></Entry>
+                <Label  Text="=" FontSize="35" Margin="15,10,0,0" ></Label>
+                <Label x:Name="Resultado" Text="0" FontSize="35" Margin="15,10,0,0" ></Label>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal" Margin="0,20,0,0" >
+                <Label  Text="f(x) =" FontSize="35" Margin="20,15,0,0" ></Label>
+                <Entry x:Name="datofx" Text="x+1"  FontSize="35" Margin="15,0,40,0"></Entry>
+                <Button Text="Evaluar" FontSize="25" Padding="0,0" WidthRequest="100" HeightRequest="40" Clicked="btn_fx"></Button>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="0,20,0,0" >
+                <Label  Text="f(x,y) =" FontSize="35" Margin="20,15,0,0" ></Label>
+                <Entry x:Name="datofxy" Text="x+y+1"  FontSize="35" Margin="15,0,40,0"></Entry>
+                <Button Text="Evaluar" FontSize="25" Padding="0,0" WidthRequest="100" HeightRequest="40" Clicked="btn_fxy"></Button>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Button Text="+" FontSize="40" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_suma" />
+                <Button Text="-" FontSize="40" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_resta" />
+                <Button Text="/" FontSize="30" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_div" />
+                <Button Text="*" FontSize="30" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_mul" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="x^½" FontSize="30" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_raiz" />
+                <Button Text="x²" FontSize="30" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_alcuadrado" />
+                <Button Text="lnx" FontSize="30" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_ln" />
+                <Button Text="logx" FontSize="30" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_log" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="10^x" FontSize="25" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_diezalax" />
+                <Button Text="e^x" FontSize="30" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_ealax" />
+                <Button Text="|x|" FontSize="30" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_abs" />
+                <Button Text="x!" FontSize="30" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_fac" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="senx" FontSize="25" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_sen" />
+                <Button Text="cosx" FontSize="25" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_cos" />
+                <Button Text="tanx" FontSize="25" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_tan" />
+                <Button Text="cotx" FontSize="25" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_cot" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="secx" FontSize="25" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_sec" />
+                <Button Text="cscx" FontSize="25" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_csc" />
+                <Button Text="asenx" FontSize="20" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_asen" />
+                <Button Text="acosx" FontSize="20" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_acos" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="atanx" FontSize="20" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_atan" />
+                <Button Text="acotx" FontSize="20" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_acot" />
+                <Button Text="asecx" FontSize="20" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_asec" />
+                <Button Text="acscx" FontSize="20" Margin="35,40,0,0" Padding="0,0" WidthRequest="50" HeightRequest="50" BackgroundColor="BlueViolet" Clicked="btn_acsc" />
+            </StackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+ 
+</ContentPage>
