@@ -1,0 +1,8 @@
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleArchivos2\ConsoleArchivos2\bin\Debug\ConsoleArchivos2.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleArchivos2\ConsoleArchivos2\bin\Debug\ConsoleArchivos2.exe
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleArchivos2\ConsoleArchivos2\bin\Debug\ConsoleArchivos2.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleArchivos2\ConsoleArchivos2\obj\Debug\ConsoleArchivos2.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleArchivos2\ConsoleArchivos2\obj\Debug\ConsoleArchivos2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleArchivos2\ConsoleArchivos2\obj\Debug\ConsoleArchivos2.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleArchivos2\ConsoleArchivos2\obj\Debug\ConsoleArchivos2.exe
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleArchivos2\ConsoleArchivos2\obj\Debug\ConsoleArchivos2.pdb

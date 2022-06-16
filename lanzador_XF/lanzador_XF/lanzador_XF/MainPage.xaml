@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="lanzador_XF.MainPage">
+
+    <ScrollView>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" >
+                <StackLayout Margin="15,0,0,0">
+                    <ImageButton Source="ipn.png" HeightRequest="80"/>
+                    <Label Text="IPN" HorizontalOptions="Center"/>
+                </StackLayout>
+
+                <StackLayout Margin="195,0,0,0">
+                    <ImageButton Source="esime.png" HeightRequest="80"/>
+                    <Label Text="ESIME" HorizontalOptions="Center"/>
+                </StackLayout>
+            </StackLayout>
+
+            <Label Text="INSTITUTO POLITÉCNICO NACIONAL" HorizontalOptions="Center" Margin="0,50,0,30"/>
+            <Label Text="Escuela Superior de Ingeniería Mecánica y Eléctrica" HorizontalOptions="Center" Margin="30,0"/>
+            <Label Text="Unidad Zacatenco" HorizontalOptions="Center" Margin="0,-5,0,30"/>
+            <Label Text="Ingenieria en Comunicaciones y Electronica" HorizontalOptions="Center" Margin="30,0"/>
+            <Image Source="profile_picture" HeightRequest="150"/>
+            <Button Text="Firma" FontSize="20" Margin="100,30" BackgroundColor="SteelBlue" TextColor="White" Clicked="firma"/>
+            <Button Text="Prácticas" FontSize="20" Margin="100,0" BackgroundColor="SteelBlue" TextColor="White" Clicked="practicas"/>
+            <Button Text="Proyectos" FontSize="20" Margin="100,30" BackgroundColor="SteelBlue" TextColor="White" Clicked="proyectos"/>
+            <Button Text="Exámen" FontSize="20" Margin="100,0" BackgroundColor="SteelBlue" TextColor="White" Clicked="examen"/>
+            <Button Text="Ciclo de vida" FontSize="20" Margin="100,30" BackgroundColor="SteelBlue" TextColor="White" Clicked="ciclo"/>
+            <Button Text="Notas" FontSize="20" Margin="100,0,100,30" BackgroundColor="SteelBlue" TextColor="White" Clicked="notas"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

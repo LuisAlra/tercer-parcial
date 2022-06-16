@@ -1,0 +1,8 @@
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleHerencia\ConsoleHerencia\bin\Debug\ConsoleHerencia.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleHerencia\ConsoleHerencia\bin\Debug\ConsoleHerencia.exe
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleHerencia\ConsoleHerencia\bin\Debug\ConsoleHerencia.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleHerencia\ConsoleHerencia\obj\Debug\ConsoleHerencia.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleHerencia\ConsoleHerencia\obj\Debug\ConsoleHerencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleHerencia\ConsoleHerencia\obj\Debug\ConsoleHerencia.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleHerencia\ConsoleHerencia\obj\Debug\ConsoleHerencia.exe
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\ConsoleHerencia\ConsoleHerencia\obj\Debug\ConsoleHerencia.pdb

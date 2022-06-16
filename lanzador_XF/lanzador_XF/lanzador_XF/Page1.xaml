@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="lanzador_XF.Page1">
+
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 1" HorizontalOptions="Center"/>
+            <ImageButton Source="p1.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 2" HorizontalOptions="Center"/>
+            <ImageButton Source="p2.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 3" HorizontalOptions="Center"/>
+            <ImageButton Source="p3.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 4" HorizontalOptions="Center"/>
+            <ImageButton Source="p4.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 5" HorizontalOptions="Center"/>
+            <ImageButton Source="p5.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 6" HorizontalOptions="Center"/>
+            <ImageButton Source="p6.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 7" HorizontalOptions="Center"/>
+            <ImageButton Source="p7.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 8" HorizontalOptions="Center"/>
+            <ImageButton Source="p8.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 9" HorizontalOptions="Center"/>
+            <ImageButton Source="p9.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 10" HorizontalOptions="Center"/>
+            <ImageButton Source="p10.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 11" HorizontalOptions="Center"/>
+            <ImageButton Source="p11.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 12" HorizontalOptions="Center"/>
+            <ImageButton Source="p12.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 13" HorizontalOptions="Center"/>
+            <ImageButton Source="p13.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 14" HorizontalOptions="Center"/>
+            <ImageButton Source="p14.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 15" HorizontalOptions="Center"/>
+            <ImageButton Source="p15.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 16" HorizontalOptions="Center"/>
+            <ImageButton Source="p16.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 17" HorizontalOptions="Center"/>
+            <ImageButton Source="p17.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 18" HorizontalOptions="Center"/>
+            <ImageButton Source="p18.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 19" HorizontalOptions="Center"/>
+            <ImageButton Source="p19.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 20" HorizontalOptions="Center"/>
+            <ImageButton Source="p20.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 21" HorizontalOptions="Center"/>
+            <ImageButton Source="p21.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 22" HorizontalOptions="Center"/>
+            <ImageButton Source="p22.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 23" HorizontalOptions="Center"/>
+            <ImageButton Source="p23.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 24" HorizontalOptions="Center"/>
+            <ImageButton Source="p24.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 25" HorizontalOptions="Center"/>
+            <ImageButton Source="p25.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Práctica 26" HorizontalOptions="Center"/>
+            <ImageButton Source="p26.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+</CarouselPage>

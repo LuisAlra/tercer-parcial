@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:forms="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             x:Class="XFexamenGraficadora.MainPage">
+
+    <ScrollView>
+        <StackLayout>            
+            <Label Text="Gráficadora" HorizontalOptions="CenterAndExpand" FontSize="25" />
+            <forms:ChartView x:Name="chartView" HeightRequest="300" WidthRequest="100" Margin="0,20" />
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="Start" Margin="25,0" HorizontalOptions="FillAndExpand" >
+                <Label Text="Valor inicial de x:" FontSize="16" Margin="5,15" />
+                <Entry x:Name="xiInput" Text="0" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="Start" Margin="25,-5" HorizontalOptions="FillAndExpand" >
+                <Label Text="Valor final de x:" FontSize="16" Margin="5,15" />
+                <Entry x:Name="xfInput" Text="0" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="Start" Margin="25,0" HorizontalOptions="FillAndExpand" >
+                <Label Text="Función f(x)/g(a):" FontSize="16" Margin="5,15" />
+                <Entry x:Name="fxInput" Text="x" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="Start" Margin="25,10" HorizontalOptions="CenterAndExpand" >
+                <Button Text="Graficar y=f(x)" Clicked="fxChart" />
+                <Button Text="Graficar r=g(a)" Clicked="gaChart" />
+            </StackLayout>
+
+            <Button HorizontalOptions="Center" Text="Firma" Clicked="signature" />
+        </StackLayout>
+    </ScrollView>
+
+
+</ContentPage>

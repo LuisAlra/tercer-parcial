@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "umHLxTobbePcVKn6q+qYmocuCdWyfP07mAS1Z2CJiFz3usS5j+YjIYYkHnpxDaKNy7MDBnikhFnwxDeI47KXYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lange\\Downloads\\ingenieria-de-software\\tercer-parcial\\lanzador_XF\\lanzador_XF\\lanzador_XF\\lanzador_XF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lange\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lange\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lange\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lange\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\lange\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

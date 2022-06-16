@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XF_firma2.MainPage">
+
+    <StackLayout BackgroundColor="SteelBlue">
+        <Label FontSize="20" TextColor="White" Text="Nombre: Luis Angel Cruz Lara" Margin="35,45,0,0"/>
+        <Label FontSize="20" TextColor="White" Text="Grupo: 8CM11" Margin="35,15"/>
+        <Label FontSize="20" TextColor="White" Text="Boleta: 2019301685" Margin="35,0"/>
+        <Image Source="profile_picture" HorizontalOptions="Center" Margin="0,35,0,0"/>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,12 @@
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\Mialbum2\Mialbum2\obj\Debug\Mialbum2.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\Mialbum2\Mialbum2\obj\Debug\Mialbum2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\Mialbum2\Mialbum2\obj\Debug\Mialbum2.Form1.resources
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\Mialbum2\Mialbum2\obj\Debug\Mialbum2.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\Mialbum2\Mialbum2\obj\Debug\Mialbum2.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\Mialbum2\Mialbum2\obj\Debug\Mialbum2.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\Mialbum2\Mialbum2\bin\Debug\album.accdb
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\Mialbum2\Mialbum2\bin\Debug\Mialbum2.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\Mialbum2\Mialbum2\bin\Debug\Mialbum2.exe
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\Mialbum2\Mialbum2\bin\Debug\Mialbum2.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\Mialbum2\Mialbum2\obj\Debug\Mialbum2.exe
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\Mialbum2\Mialbum2\obj\Debug\Mialbum2.pdb

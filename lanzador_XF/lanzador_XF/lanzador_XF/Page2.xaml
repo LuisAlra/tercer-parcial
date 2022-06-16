@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="lanzador_XF.Page2">
+
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Proyecto 1" HorizontalOptions="Center"/>
+            <ImageButton Source="pr1.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Proyecto 2" HorizontalOptions="Center"/>
+            <ImageButton Source="pr2.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Proyecto 3" HorizontalOptions="Center"/>
+            <ImageButton Source="pr3.png" Aspect="Fill" HorizontalOptions="Center" />
+        </StackLayout>
+    </ContentPage>
+</CarouselPage>

@@ -1,0 +1,15 @@
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\bin\Debug\netstandard2.0\XF_firma1.deps.json
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\bin\Debug\netstandard2.0\XF_firma1.dll
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\bin\Debug\netstandard2.0\XF_firma1.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\obj\Debug\netstandard2.0\XF_firma1.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\obj\Debug\netstandard2.0\XF_firma1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\obj\Debug\netstandard2.0\XF_firma1.AssemblyInfoInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\obj\Debug\netstandard2.0\XF_firma1.AssemblyInfo.cs
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\obj\Debug\netstandard2.0\XF_firma1.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\obj\Debug\netstandard2.0\XF_firma1.dll
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\obj\Debug\netstandard2.0\refint\XF_firma1.dll
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\obj\Debug\netstandard2.0\XF_firma1.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\tercer-parcial\XF_firma1\XF_firma1\XF_firma1\obj\Debug\netstandard2.0\ref\XF_firma1.dll
