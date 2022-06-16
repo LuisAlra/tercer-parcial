@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="conversiones.MainPage">
+
+    <StackLayout>
+        <Label Text="Calculadora con ICE - Conversiones" FontSize="35" Margin="0,50,0,0" HorizontalTextAlignment="Center" />
+        <Button Text="Conversiones" FontSize="20" Margin="100,30" BackgroundColor="SteelBlue" TextColor="White" Clicked="btn_conversiones"/>
+        <Button Text="Firma" FontSize="20" Margin="100,30" BackgroundColor="SteelBlue" TextColor="White" Clicked="firma"/>
+    </StackLayout>
+
+</ContentPage>

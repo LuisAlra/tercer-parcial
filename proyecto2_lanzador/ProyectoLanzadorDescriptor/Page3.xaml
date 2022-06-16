@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="ProyectoLanzadorDescriptor.Page3"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ProyectoLanzadorDescriptor"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Width="1240" Background="SteelBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="10*" />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Regresar" x:Name="btregresar" Click="btregresar_Click"/>
+            <Rectangle Width="350" />
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Recarga activa de .NET" VerticalAlignment="Top" FontSize="22" FontFamily="Bahnschrift SemiBold SemiCondensed" Foreground="#FF052A54" FontWeight="Bold"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text=".NET MAUI incluye compatibilidad con la recarga activa de .NET, que permite modificar el código fuente
+administrado mientras se ejecuta la aplicación, sin necesidad de pausar o alcanzar manualmente un
+punto de interrupción. A continuación, las modificaciones de código se pueden aplicar a la aplicación en
+ejecución sin volver a compilar." VerticalAlignment="Top" FontSize="20" Margin="0,0,0,20" FontFamily="Bahnschrift SemiBold SemiCondensed"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text=".NET MAUI incluye compatibilidad con la recarga activa de XAML, que permite guardar los archivos
+XAML y ver los cambios reflejados en la aplicación en ejecución sin volver a compilar. Además, el estado
+de navegación y los datos se mantendrán, lo que le permite iterar rápidamente en la interfaz de usuario
+sin perder su lugar en la aplicación." FontSize="20" FontFamily="Bahnschrift SemiBold SemiCondensed" Width="938"/>
+        </StackPanel>
+    </Grid>
+</Page>

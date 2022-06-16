@@ -1,0 +1,48 @@
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\bin\Debug\WPFarchivos.exe.config
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\bin\Debug\WPFarchivos.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\bin\Debug\WPFarchivos.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\obj\Debug\WPFarchivos.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\obj\Debug\WPFarchivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\obj\Debug\MainWindow.g.cs
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\obj\Debug\App.g.cs
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\obj\Debug\WPFarchivos_MarkupCompile.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\obj\Debug\WPFarchivos_MarkupCompile.lref
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\obj\Debug\MainWindow.baml
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\obj\Debug\WPFarchivos.g.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\obj\Debug\WPFarchivos.Properties.Resources.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\obj\Debug\WPFarchivos.csproj.GenerateResource.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\obj\Debug\WPFarchivos.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\obj\Debug\WPFarchivos.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Proyectos\WPFarchivos\obj\Debug\WPFarchivos.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\obj\Debug\WPFarchivos.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\obj\Debug\WPFarchivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\obj\Debug\MainWindow.g.cs
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\obj\Debug\App.g.cs
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\obj\Debug\WPFarchivos_MarkupCompile.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\obj\Debug\WPFarchivos_MarkupCompile.lref
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\obj\Debug\WPFarchivos.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\obj\Debug\WPFarchivos.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\bin\Debug\WPFarchivos.exe.config
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\bin\Debug\WPFarchivos.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\bin\Debug\WPFarchivos.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\obj\Debug\MainWindow.baml
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\obj\Debug\WPFarchivos.g.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\obj\Debug\WPFarchivos.Properties.Resources.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\obj\Debug\WPFarchivos.csproj.GenerateResource.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\TercerParcial\Practicas\WPFarchivos\obj\Debug\WPFarchivos.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\bin\Debug\WPFarchivos.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\bin\Debug\WPFarchivos.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\bin\Debug\WPFarchivos.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\obj\Debug\WPFarchivos.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\obj\Debug\WPFarchivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\obj\Debug\MainWindow.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\obj\Debug\App.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\obj\Debug\WPFarchivos_MarkupCompile.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\obj\Debug\WPFarchivos_MarkupCompile.lref
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\obj\Debug\MainWindow.baml
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\obj\Debug\WPFarchivos.g.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\obj\Debug\WPFarchivos.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\obj\Debug\WPFarchivos.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\obj\Debug\WPFarchivos.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\obj\Debug\WPFarchivos.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFarchivos\obj\Debug\WPFarchivos.pdb

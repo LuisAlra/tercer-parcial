@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="conversiones.conversiones">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label Text="Conversiones" HorizontalOptions="CenterAndExpand" 
+                       Margin="15,15,15,15" FontSize="Large" />
+
+                <Label Text="km/h a m/s" Margin="15,0" FontSize="Body" />
+                <Entry x:Name="km2mInput" Text="0" Margin="5,5,250,5" />
+                <Button Text="Calcular" Clicked="btn_km2m" />
+                <Label Text="" x:Name="km2mOutput" Margin="25,0" />
+
+                <Label Text="m/s a km/h" Margin="15,30,0,0" FontSize="Body" />
+                <Entry x:Name="m2kmInput" Text="0" Margin="5,5,250,5" />
+                <Button Text="Calcular" Clicked="btn_m2km" />
+                <Label Text="" x:Name="m2kmOutput" Margin="25,0" />
+
+                <Label Text="kg/m^3 a g/cm^3" Margin="15,30,0,0" FontSize="Body" />
+                <Entry x:Name="kg2gInput" Text="0" Margin="5,5,250,5" />
+                <Button Text="Calcular" Clicked="btn_kg2g" />
+                <Label Text="" x:Name="kg2gOutput" Margin="25,0" />
+            
+                <Label Text="g/cm^3 a kg/m^3" Margin="15,30,0,0" FontSize="Body" />
+                <Entry x:Name="g2kgInput" Text="0" Margin="5,5,250,5" />
+                <Button Text="Calcular" Clicked="btn_g2kg" />
+                <Label Text="" x:Name="g2kgOutput" Margin="25,0" />
+
+                <Label Text="Radianes a grados" Margin="15,30,0,0" FontSize="Body" />
+                <Entry x:Name="r2gInput" Text="0" Margin="5,5,250,5" />
+                <Button Text="Calcular" Clicked="btn_r2g" />
+                <Label Text="" x:Name="r2gOutput" Margin="25,0" />
+
+                <Label Text="Pulgada a centimetros/metros" Margin="15,30,0,0" FontSize="Body" />
+                <Entry x:Name="i2mInput" Text="0" Margin="5,5,250,5" />
+                <Button Text="Calcular" Clicked="btn_i2m" />
+                <Label Text="" x:Name="i2cmOutput" Margin="25,0" />
+                <Label Text="" x:Name="i2mOutput" Margin="25,0" />
+
+                <Label Text="Millas a metros/kilometros" Margin="15,30,0,0" FontSize="Body" />
+                <Entry x:Name="mi2mInput" Text="0" Margin="5,5,250,5" />
+                <Button Text="Calcular" Clicked="btn_mi2m" />
+                <Label Text="" x:Name="mi2mOutput" Margin="25,0" />
+                <Label Text="" x:Name="mi2kmOutput" Margin="25,0,25,180" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
